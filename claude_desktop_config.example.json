@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "gmail-mcp": {
+      "command": "D:\\MCP_Server\\.venv\\Scripts\\python.exe",
+      "args": [
+        "D:\\MCP_Server\\server.py"
+      ]
+    }
+  }
+}
