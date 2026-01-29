@@ -69,6 +69,7 @@ screenshots/
    - Type: **Desktop app**
 5) Download the OAuth client JSON and save it as: **credentials.json**
 
+---
 
 ## Local Installation
 
@@ -76,9 +77,10 @@ screenshots/
 
 Open PowerShell in the project folder:
 
-```powershell
+powershell
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
+
 
 ### 2. Install dependencies
  
