@@ -47,14 +47,14 @@ This project is designed to be run locally and connected to Claude Desktop.
 
 ## Project Structure
 
-MCP_Server/
-server.py
-gmail_client.py
-requirements.txt
-.env.example
-.gitignore
-claude_desktop_config.example.json
-screenshots/
+- MCP_Server/
+- server.py
+- gmail_client.py
+- requirements.txt
+- .env
+- .gitignore
+- claude_desktop_config.example.json
+- screenshots/
 
 
 ## Setup (Google Cloud + OAuth)
