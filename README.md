@@ -6,8 +6,6 @@ An MCP (Model Context Protocol) server that lets an AI assistant:
 
 This project is designed to be run locally and connected to Claude Desktop.
 
----
-
 ## Features
 
 - **Tool: `get_unread_emails`**
@@ -130,7 +128,7 @@ This server only reads emails (gmail.readonly) and creates drafts (gmail.compose
 
 ### 8. Troubleshooting
 
-OAuth 403 access_denied
+**OAuth 403 access_denied**
 
 Ensure OAuth consent screen is configured
 
@@ -138,7 +136,7 @@ If status is Testing, add your Gmail address under Test users
 
 Confirm OAuth client type is Desktop app
 
-Claude says credentials are missing
+**Claude says credentials are missing**
 
 Use absolute paths in .env
 
